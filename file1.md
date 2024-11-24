@@ -18,29 +18,46 @@ Texte aligné nulle part et dépressif
 Liste à puces imbriquée dans une liste ordonnée:
 
   1. fruits
-     * pomme
-     * mirabelle
-     * mira pas belle
-     * banane
-     * kumqat
-     * manzanita (attention POISON)
-     * testicourge
-     * poire
-     * noix de coco
-     * quetsche
-     * pruneau à pet
-     * cerise
-     * fraise
-     * framboise
-     * raisins de la colère
-     * pêches à diarrhée
-<br>
-<br>
+	 * pomme
+	 * banane
+	 * noix de coco
+	 * manzanita (attention POISON)
+	 * testicourge
+	 * banane
+	 * poire
+	 * quetsche
+	 * pruneau à pet
+	 * pêches à diarrhée
+	 * pruneau à pet
+	* cerise
+	 * noix de coco
+	 * cerise
+	 * fraise
+	 * framboise
+	 * noix de coco
+	 * raisins de la colère
+	 * pêches à diarrhée
+  1. fruits
+	 * paume
+	 * bannane
+	 * kumkatt
+	 * manzana (attention alcool)
+	 * oscourge
+	 * poare
+	 * noah de koko
+	 * keske? 
+	 * puno dtc
+	 * cerise de groupama
+	 * phrèze
+	 * nope
+	 * raisins de la colère
+	 * pêches à diarrhée
+
   2. légumes
-     - carotte
-     - brocoli
-     - totate
-     - pamates
+	 - carotte
+	 - brocoli
+	 - totate
+	 - pamates
      - curcure bite assez
      - salsifi
 
