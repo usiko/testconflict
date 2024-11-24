@@ -17,6 +17,19 @@ Liste à puces imbriquée dans une liste ordonnée:
   1. fruits
      * pomme
      * banane
+     * kumqat
+     * manzanita (attention POISON)
+     * testicourge
+     * poire
+     * noix de coco
+     * quetsche
+     * pruneau à pet
+     * cerise
+     * fraise
+     * framboise
+     * raisins de la colère
+     * pêches à diarrhée
+
   2. légumes
      - carotte
      - brocoli
