@@ -22,5 +22,5 @@ Liste à puces imbriquée dans une liste ordonnée:
      - brocoli
 
 Liste à cocher:
- - [ ] Case non cochée
- - [x] Case cochée
+ - [X] Case cochée
+ - [x] Case cochée aussi, meh
